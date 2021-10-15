@@ -1,6 +1,6 @@
 {
   "name": "node-forge-fork",
-  "version": "0.10.2",
+  "version": "0.10.3",
   "description": "Forked from node-forge to fix https://github.com/digitalbazaar/forge/issues/400",
   "homepage": "https://github.com/digitalbazaar/forge",
   "author": {
